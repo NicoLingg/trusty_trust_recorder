@@ -55,15 +55,15 @@ You will need the following items to build the Trusty device:
 Steps:
 1. Open the slot car controller and remove the coil, wires, and switch (keep the board).
    
-   ![Open Controller](./images/open_controller.jpg)
+   <img src="./images/open_controller.png" style=" width:200px"  >
 
-2. Attach the potentiometer to the rod of the slot controller.
+3. Attach the potentiometer to the rod of the slot controller.
    
-   ![Attach Potentiometer](./images/attach_potentiometer.jpg)
-
-3. Wire up the potentiometer according to the datasheet and Arduino.
+   <img src="./images/attach_potentiometer.png" style=" width:250px"  >
    
-   ![Wire Potentiometer](./images/wire_potentiometer.jpg)
+5. Wire up the potentiometer according to the datasheet and Arduino.
+   
+   <img src="./images/wire_potentiometer.png" style=" width:200px"  >
 
 
 ### Running the Node
